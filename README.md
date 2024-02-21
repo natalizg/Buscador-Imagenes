@@ -1,4 +1,4 @@
--- App Buscador de Imágenes JS Vanilla
+# App Buscador de Imágenes JS Vanilla
 
 
 En este proyecto, he desarrollado una aplicación que te permite buscar imágenes utilizando JavaScript vanilla. Consta de conexión a una API utilizando fetch(). Tiene dos funciones principales:
